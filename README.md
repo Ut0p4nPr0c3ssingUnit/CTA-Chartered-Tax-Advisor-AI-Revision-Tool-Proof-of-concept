@@ -11,6 +11,7 @@ Hello all. I have recently started a Graduate Apprentice in Tax. This is a Proof
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ut0p4nPr0c3ssingUnit/CTA-Chartered-Tax-Advisor-AI-Revision-Tool-Proof-of-concept/blob/main/Chartered%20Tax%20Advisor%20(CTA)%20Agentic%20Model%20Producing%20Flashcards%20based%20on%20Tolley's%20Material)
 
 Click the badge above to run the AI Revision Tool directly in Google Colab. No installation required!
+[![Open In Colab](https://google.com)](https://google.com)
 
 ---
 
