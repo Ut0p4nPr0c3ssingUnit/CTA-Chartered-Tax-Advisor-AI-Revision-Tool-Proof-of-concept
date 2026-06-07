@@ -8,7 +8,15 @@ Hello all. I have recently started a Graduate Apprentice in Tax. This is a Proof
 
 ### Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ut0p4nPr0c3ssingUnit/CTA-Chartered-Tax-Advisor-AI-Revision-Tool-Proof-of-concept/blob/main/your_notebook_name.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ut0p4nPr0c3ssingUnit/CTA-Chartered-Tax-Advisor-AI-Revision-Tool-Proof-of-concept/blob/main/CTA_Revision_Tool.ipynb)
+
+**Key Information:**
+- ✅ No local installation required - runs entirely in the cloud
+- ✅ Free to use with a Google account (requires active GCP billing)
+- ✅ Pre-configured environment with all dependencies
+- ✅ Direct integration with Google Cloud Storage for document uploads
+- ⚠️ Requires a GCP Project with Vertex AI API enabled
+- ⚠️ Your Tolley's reference materials will be processed by Gemini 1.5 Pro
 
 ---
 
